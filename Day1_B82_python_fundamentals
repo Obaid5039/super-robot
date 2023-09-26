@@ -1,0 +1,5 @@
+l=input("Input Length",20)
+b=input("Input Breadth",30)
+h= input("Inout Height"40)
+v=l*b*h
+Print("Volume:",V)
